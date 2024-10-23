@@ -1,0 +1,466 @@
+{
+    "timetable": [
+        {
+            "day": "Monday",
+            "dayAbbrev": "MO",
+            "lessons": [
+                [
+                    {
+                        "hourId": 1,
+                        "teacherId": 0,
+                        "lessonId": 0,
+                        "classroom":202
+                    },
+                    {
+                        "hourId": 1,
+                        "teacherId": 1,
+                        "lessonId": 1,
+                        "classroom":203
+                    }
+                ],
+                [
+                    {
+                        "hourId": 2,
+                        "teacherId": 1,
+                        "lessonId": 1,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 3,
+                        "teacherId": 2,
+                        "lessonId": 2,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 4,
+                        "teacherId": 0,
+                        "lessonId": 3,
+                        "classroom":202
+                    }
+                ]
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "dayAbbrev": "TU",
+            "lessons": [
+                [
+                    {
+                        "hourId": 1,
+                        "teacherId": 3,
+                        "lessonId": 8,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 2,
+                        "teacherId": 4,
+                        "lessonId": 9,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 3,
+                        "teacherId": 0,
+                        "lessonId": 10,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 4,
+                        "teacherId": 1,
+                        "lessonId": 11,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 5,
+                        "teacherId": 2,
+                        "lessonId": 12,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 7,
+                        "teacherId": 4,
+                        "lessonId": 14,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 8,
+                        "teacherId": 4,
+                        "lessonId": 14,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 9,
+                        "teacherId": 0,
+                        "lessonId": 1,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 10,
+                        "teacherId": 1,
+                        "lessonId": 2,
+                        "classroom":202
+                    }
+                ]
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "dayAbbrev": "WE",
+            "lessons": [
+                [
+                    {
+                        "hourId": 0,
+                        "teacherId": 2,
+                        "lessonId": 3,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 1,
+                        "teacherId": 2,
+                        "lessonId": 3,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 2,
+                        "teacherId": 3,
+                        "lessonId": 4,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 3,
+                        "teacherId": 4,
+                        "lessonId": 5,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 4,
+                        "teacherId": 0,
+                        "lessonId": 6,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 5,
+                        "teacherId": 1,
+                        "lessonId": 7,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 7,
+                        "teacherId": 2,
+                        "lessonId": 8,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 8,
+                        "teacherId": 3,
+                        "lessonId": 9,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 9,
+                        "teacherId": 4,
+                        "lessonId": 10,
+                        "classroom":202
+                    }
+                ]
+            ]
+        },
+        {
+            "day": "Thursday",
+            "dayAbbrev": "TH",
+            "lessons": [
+                [
+                    {
+                        "hourId": 1,
+                        "teacherId": 1,
+                        "lessonId": 12,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 2,
+                        "teacherId": 2,
+                        "lessonId": 13,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 3,
+                        "teacherId": 3,
+                        "lessonId": 14,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 4,
+                        "teacherId": 4,
+                        "lessonId": 0,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 6,
+                        "teacherId": 0,
+                        "lessonId": 1,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 7,
+                        "teacherId": 1,
+                        "lessonId": 2,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 8,
+                        "teacherId": 2,
+                        "lessonId": 3,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 9,
+                        "teacherId": 3,
+                        "lessonId": 4,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 10,
+                        "teacherId": 4,
+                        "lessonId": 5,
+                        "classroom":202
+                    }
+                ]
+            ]
+        },
+        {
+            "day": "Friday",
+            "dayAbbrev": "FR",
+            "lessons": [
+                [
+                    {
+                        "hourId": 1,
+                        "teacherId": 0,
+                        "lessonId": 6,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 2,
+                        "teacherId": 1,
+                        "lessonId": 7,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 3,
+                        "teacherId": 2,
+                        "lessonId": 8,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 4,
+                        "teacherId": 3,
+                        "lessonId": 9,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 5,
+                        "teacherId": 4,
+                        "lessonId": 10,
+                        "classroom":202
+                    }
+                ],
+                [
+                    {
+                        "hourId": 6,
+                        "teacherId": 0,
+                        "lessonId": 11,
+                        "classroom":202
+                    }
+                ]
+            ]
+        }
+    ],
+    "lessons": [
+        {
+            "name": "Český jazyk",
+            "abbrev": "ČJ"
+        },
+        {
+            "name": "Matematika",
+            "abbrev": "MA"
+        },
+        {
+            "name": "Fyzika",
+            "abbrev": "FY"
+        },
+        {
+            "name": "Chemie",
+            "abbrev": "CH"
+        },
+        {
+            "name": "Biologie",
+            "abbrev": "BI"
+        },
+        {
+            "name": "Angličtina",
+            "abbrev": "AJ"
+        },
+        {
+            "name": "Francouzština",
+            "abbrev": "FR"
+        },
+        {
+            "name": "Němčina",
+            "abbrev": "NJ"
+        },
+        {
+            "name": "Informatika",
+            "abbrev": "INF"
+        },
+        {
+            "name": "Tělesná výchova",
+            "abbrev": "TV"
+        },
+        {
+            "name": "Dějepis",
+            "abbrev": "DE"
+        },
+        {
+            "name": "Zeměpis",
+            "abbrev": "ZE"
+        },
+        {
+            "name": "Hudební výchova",
+            "abbrev": "HV"
+        },
+        {
+            "name": "Výtvarka",
+            "abbrev": "VV"
+        },
+        {
+            "name": "Občanská nauka",
+            "abbrev": "ON"
+        }
+    ],
+    "teachers": [
+        {
+            "name": "Mgr. Štěpánka Nováková",
+            "abbrev": "No"
+        },
+        {
+            "name": "Ing. Libor Bajer",
+            "abbrev": "Bj"
+        },
+        {
+            "name": "Bc. Karolína Procházková",
+            "abbrev": "Pr"
+        },
+        {
+            "name": "PhDr. Tomáš Havránek",
+            "abbrev": "Ha"
+        },
+        {
+            "name": "Mgr. Petra Svobodová",
+            "abbrev": "Sv"
+        }
+    ],
+    "hours": [
+        {
+            "start": "7:10",
+            "end": "7:55"
+        },
+        {
+            "start": "8:00",
+            "end": "8:45"
+        },
+        {
+            "start": "8:50",
+            "end": "9:35"
+        },
+        {
+            "start": "9:45",
+            "end": "10:30"
+        },
+        {
+            "start": "10:40",
+            "end": "11:25"
+        },
+        {
+            "start": "11:35",
+            "end": "12:20"
+        },
+        {
+            "start": "12:30",
+            "end": "13:15"
+        },
+        {
+            "start": "13:20",
+            "end": "14:05"
+        },
+        {
+            "start": "14:10",
+            "end": "14:55"
+        },
+        {
+            "start": "15:00",
+            "end": "15:45"
+        },
+        {
+            "start": "15:50",
+            "end": "16:35"
+        }
+    ]
+}
