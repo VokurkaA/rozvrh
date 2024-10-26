@@ -25,7 +25,7 @@ function printCell(?Cell $cell)
 }
 ?>
 <!DOCTYPE html>
-<html lang="cz">
+<html lang="cs">
 
 <head>
     <meta charset="UTF-8">

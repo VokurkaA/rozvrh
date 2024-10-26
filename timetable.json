@@ -16,6 +16,12 @@
                         "teacherId": 1,
                         "lessonId": 1,
                         "classroom":203
+                    },
+                    {
+                        "hourId": 1,
+                        "teacherId": 0,
+                        "lessonId": 0,
+                        "classroom":202
                     }
                 ],
                 [
